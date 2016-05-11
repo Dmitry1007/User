@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"auto-save",
+		"BeautifyRuby",
+		"Better RSpec",
+		"BracketHighlighter",
+		"Comment-Snippets",
+		"CSS3",
+		"ERB Autocomplete",
+		"GitGutter",
+		"HTMLAttributes",
+		"JavaScript & Coffeescript Build Systems",
+		"jQuery",
+		"jQueryDocs",
+		"JSX",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Markmon real-time markdown preview",
+		"Monokai Extended",
+		"Package Control",
+		"Pane Resizer",
+		"React ES6 Snippets",
+		"React Templates",
+		"ReactJS",
+		"RSpec",
+		"rspec-snippets",
+		"RubyTest",
+		"SideBarEnhancements",
+		"SmartMarkdown",
+		"SublimeLinter-jsxhint",
+		"Syntax Highlighting for Sass",
+		"Tomorrow Color Schemes",
+		"TrailingSpaces",
+		"Whitespace"
+	]
+}
